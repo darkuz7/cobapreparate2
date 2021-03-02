@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559791618136",
+    "project_id": "cobaev-preparate",
+    "storage_bucket": "cobaev-preparate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559791618136:android:dd48de69d6c16797e4b22d",
+        "android_client_info": {
+          "package_name": "mx.edu.cobaev.preparate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559791618136-rgnhfh516jd4a68m72s479g7h2rqcomk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAvNMKdEP5AEnBud8bcTHcnXaDZvTWvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559791618136-rgnhfh516jd4a68m72s479g7h2rqcomk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
